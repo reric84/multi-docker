@@ -17,6 +17,6 @@ after_success:
   - echo "$DCOKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin
 # Take those images and push them to docker hub
   - docker push reric84/multi-client
-    docker push reric84/multi-nginx
-    docker push reric84/multi-server
-    docker push reric84/multi-worker
+  - docker push reric84/multi-nginx
+  - docker push reric84/multi-server
+  - docker push reric84/multi-worker
