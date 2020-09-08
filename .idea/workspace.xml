@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64e9907c-40b3-40cc-b77a-ea90d1001147" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/Fib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/OtherPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="ProjectId" id="1h9JAtRhI3BLwGWSzjBx6obYWzV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src" />
+      <recent name="$PROJECT_DIR$/worker" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/nginx" />
+      <recent name="$PROJECT_DIR$/worker" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64e9907c-40b3-40cc-b77a-ea90d1001147" name="Default Changelist" comment="" />
+      <created>1599417233332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599417233332</updated>
+      <workItem from="1599417234540" duration="4027000" />
+      <workItem from="1599421385210" duration="1677000" />
+      <workItem from="1599510283204" duration="2245000" />
+      <workItem from="1599577252423" duration="8727000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="589" y="336" width="799" height="433" key="#com.intellij.fileTypes.FileTypeChooser.inPresentationMode" timestamp="1599421450588">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="589" y="336" width="799" height="433" key="#com.intellij.fileTypes.FileTypeChooser.inPresentationMode/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1599421450588" />
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog.inPresentationMode" timestamp="1599421008902">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog.inPresentationMode/67.27.3773.1053@67.27.3773.1053" timestamp="1599421008902" />
+    <state width="1853" height="329" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1599421326081">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state width="1853" height="329" key="GridCell.Tab.0.bottom.inPresentationMode/67.27.3773.1053@67.27.3773.1053" timestamp="1599421326081" />
+    <state width="1853" height="329" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1599421326080">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state width="1853" height="329" key="GridCell.Tab.0.center.inPresentationMode/67.27.3773.1053@67.27.3773.1053" timestamp="1599421326080" />
+    <state width="1853" height="329" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1599421326079">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state width="1853" height="329" key="GridCell.Tab.0.left.inPresentationMode/67.27.3773.1053@67.27.3773.1053" timestamp="1599421326079" />
+    <state width="1853" height="329" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1599421326081">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state width="1853" height="329" key="GridCell.Tab.0.right.inPresentationMode/67.27.3773.1053@67.27.3773.1053" timestamp="1599421326081" />
+    <state width="500" height="457" key="SwitcherDM.inPresentationMode" timestamp="1599588300146">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="500" height="457" key="SwitcherDM.inPresentationMode/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1599588300146" />
+  </component>
+</project>
